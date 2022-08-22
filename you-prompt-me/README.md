@@ -21,7 +21,7 @@
 - [Prompt 的设计](#Prompt-的设计)
 - [Prompt 公式](#Prompt-公式)
 - [Prompt 设计原则](#Prompt-设计原则)
-    - [Prompt:简单原则: 清楚地陈述](#Prompt:简单原则:清楚地陈述)
+    - [Prompt:简单原则:清楚地陈述](#Prompt:简单原则:清楚地陈述)
     - [Prompt:简单原则:但是细节要适度](#Prompt:简单原则:但是细节要适度)
 - [Prompt 主体的选择](#Prompt-主体的选择)
 - [Prompt 修饰词与艺术家](#Prompt-修饰词与艺术家)
