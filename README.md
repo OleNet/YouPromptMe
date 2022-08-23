@@ -1,5 +1,6 @@
 # YouPromptMe's Homepage
 
+https://github.com/OleNet/YouPromptMe
 
 > * [You Prompt Me: Prompt 指北](/you-prompt-me/)
 
