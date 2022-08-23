@@ -7,3 +7,6 @@
 
 > * [AI Art](/gallery/)
 
+### About Me
+
+> * [Null](/about-me/)
