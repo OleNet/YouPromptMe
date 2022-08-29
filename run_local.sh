@@ -1,1 +1,1 @@
-docsify server ./
+docsify serve ./
