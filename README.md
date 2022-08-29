@@ -10,4 +10,4 @@ https://github.com/OleNet/YouPromptMe
 
 ### About Me
 
-> * [Null](/about-me/)
+> * [Contact](/about-me/)
