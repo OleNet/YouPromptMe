@@ -42,10 +42,10 @@ Prompt 的重要性如此重要，以至于我们需要构造一个示例来进�
 算法生成的图片难免会受到数据的影响，从而导致生成的图片是有数据偏见的。因此在分享机器生成图片到社交媒体之前，请三思当前的图片是不是含有：令人不适的、暴力的、色情的内容。如果有以上的内容请自行承担法律后果。
 
 
+<span id = "p-design">   </span>
+## Prompt 的设计
 
-## Prompt 的设计 <span id = "p-design">   </span>
-
-如何设计 Prompt，下文大概会通过4个方面来说明：[Prompt 公式](#p-eq)，[Prompt 原则](#p-principle)，[Prompt 主体](#p-entity)、[Prompt 修饰词](#p-modifier)。
+如何设计 Prompt，下文大概会通过4个方面来说明：[Prompt 公式](#p-eq)，[Prompt 原则](#p-design)，[Prompt 主体](#p-entity)、[Prompt 修饰词](#p-modifier)。
 
 需要注意的是，这里的 Prompt 公式仅仅是个入门级别的参考，是经验的简单总结，在熟悉了 Prompt 的原理之后，可以尽情的发挥脑洞修改 Prompt。
 
@@ -53,7 +53,8 @@ Prompt 的重要性如此重要，以至于我们需要构造一个示例来进�
 
 
 
-## Prompt 公式<span id = "p-eq">   </span>
+<span id = "p-eq">   </span>
+## Prompt 公式
 
 $$
 Prompt = [形容词] [主语] ，[细节设定]， [修饰语或者艺术家]
@@ -69,7 +70,8 @@ $$
 
 
 
-## Prompt 设计原则<span id = "p-principle">   </span>
+<span id = "p-principle">   </span>
+## Prompt 设计原则
 
 ### Prompt 简单原则: 清楚地陈述
 
@@ -83,7 +85,8 @@ $$
 
 
 
-## Prompt 主体的选择<span id = "p-entity">   </span>
+<span id = "p-entity">   </span>
+## Prompt 主体的选择
 
 Prompt 的主体可以是千奇百怪、各种各样的。这里我挑了几个简单的容易出效果的主体示例和一些能够营造特殊氛围的氛围词来激发大家的灵感。
 
@@ -107,7 +110,8 @@ Prompt 的主体可以是千奇百怪、各种各样的。这里我挑了几个�
 
 
 
-## Prompt 修饰词<span id = "p-modifier">   </span>
+<span id = "p-modifier">   </span>
+## Prompt 修饰词
 
 如果想让生成的图片更加的艺术化、风格话，可以考虑在 Prompt 中添加艺术修饰词。艺术修饰词可以是一些美术风格(例如表现主义、抽象主义等)，也可以是一些美学词汇（蒸汽波艺术、故障艺术等），也可以是一些摄影术语（80mm摄像头、浅景深等），也可以是一些绘图软件（虚幻引擎、C4D等）。
 
@@ -439,6 +443,14 @@ Prompt 的主体可以是千奇百怪、各种各样的。这里我挑了几个�
 
 
 
+
+
+## Prompt 更多信息
+
+### 概念组合
+
+![赛博朋克中国山水园林](./images/赛博朋克中国山水园林.png)
+
 ## ShowCase
 
 更多 ShowCase 和创意 Prompt，可以参考我的[社交账号](#关注我) 或者是 http://youpromptme.cn/#/gallery/ (建设中)
@@ -496,13 +508,6 @@ Prompt 的主体可以是千奇百怪、各种各样的。这里我挑了几个�
 
 
 
-## Prompt 更多信息
-
-### 概念组合
-
-![赛博朋克中国山水园林](./images/赛博朋克中国山水园林.png)
-
-
 
 ## 附录
 
@@ -551,7 +556,8 @@ Prompt 的主体可以是千奇百怪、各种各样的。这里我挑了几个�
 
 
 
-### 相关链接 <span id = "related-work">   </span>
+<span id = "related-work">   </span>
+### 相关链接 
 
 美学相关的词汇： https://aesthetics.fandom.com/wiki/List_of_Aesthetics
 
