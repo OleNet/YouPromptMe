@@ -13,10 +13,6 @@
 
 
 
-## 目录
-[TOC]
-
-
 ## 前言
 
 Prompt 的重要性如此重要，以至于我们需要构造一个示例来进行一次说明。
@@ -45,7 +41,7 @@ Prompt 的重要性如此重要，以至于我们需要构造一个示例来进�
 <span id = "p-design">   </span>
 ## Prompt 的设计
 
-如何设计 Prompt，下文大概会通过4个方面来说明：[Prompt 公式](#p-eq)，[Prompt 原则](#p-design)，[Prompt 主体](#p-entity)、[Prompt 修饰词](#p-modifier)。
+如何设计 Prompt，下文大概会通过4个方面来说明：[Prompt 公式](#p-eq)，[Prompt 原则](#p-principle)，[Prompt 主体](#p-entity)、[Prompt 修饰词](#p-modifier)。
 
 需要注意的是，这里的 Prompt 公式仅仅是个入门级别的参考，是经验的简单总结，在熟悉了 Prompt 的原理之后，可以尽情的发挥脑洞修改 Prompt。
 
@@ -572,22 +568,6 @@ DiscoDiffusion Prompt 技巧资料：https://docs.google.com/document/d/1l8s7uS2
 
 
 ![contact](./images/contact.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
