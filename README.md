@@ -2,7 +2,7 @@
 
 https://github.com/OleNet/YouPromptMe
 
-> * [You Prompt Me: Prompt 指北](/you-prompt-me/)
+> * [You Prompt Me: Prompt 指南](/you-prompt-me/)
 
 ### Gallery
 
