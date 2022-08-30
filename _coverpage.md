@@ -1,1 +1,0 @@
-![](photo-with-title.png)

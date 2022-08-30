@@ -1,11 +1,11 @@
-# YouPromptMe's Homepage
+# HomePage
 
 > * [You Prompt Me: Prompt 指南](/you-prompt-me/)
 
-### Gallery
+## Gallery
 
 > * [AI Art](/gallery/)
 
-### About Me
+## About Me
 
 > * [Contact](/about-me/)
