@@ -9,7 +9,7 @@
 
 ## AI Art Paretto
 
-> * [AI Art Paretto](/ai-art-color-paretto/)
+> * [AI Art Color Palette](/ai-art-color-palette/)
  
 
 ## About Me
