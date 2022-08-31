@@ -4,7 +4,13 @@
 
 ## Gallery
 
-> * [AI Art](/gallery/)
+> * [AI Art Gallery](/ai-art-gallery/)
+ 
+
+## AI Art Paretto
+
+> * [AI Art Paretto](/ai-art-color-paretto/)
+ 
 
 ## About Me
 

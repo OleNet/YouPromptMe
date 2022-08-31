@@ -1,1 +1,0 @@
-# AI ART GALLERY
