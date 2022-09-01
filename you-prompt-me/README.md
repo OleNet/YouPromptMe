@@ -1,6 +1,6 @@
 # Prompt 指南
 
-> <small> (在 GitHub 阅读 README 的用户可以访问 www.youprompt.cn 获得更好的阅读体验) </small>
+> <small> (在 GitHub 阅读 README 的用户可以访问 www.youpromptme.cn 获得更好的阅读体验) </small>
 
 ><small> (图片比较多，完全加载页面可能需要 3min) </small>
 
