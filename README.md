@@ -7,7 +7,7 @@
 > * [AI Art Gallery](/ai-art-gallery/)
  
 
-## AI Art Paretto
+## AI Art Palette
 
 > * [AI Art Color Palette](/ai-art-color-palette/)
  
